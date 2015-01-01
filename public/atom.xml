@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Daniel G. Blog!]]></title>
+  <link href="http://daniel-g.com/atom.xml" rel="self"/>
+  <link href="http://daniel-g.com/"/>
+  <updated>2014-12-31T20:33:40-06:00</updated>
+  <id>http://daniel-g.com/</id>
+  <author>
+    <name><![CDATA[Daniel Gaytán]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Feliz Año 2015]]></title>
+    <link href="http://daniel-g.com/blog/2014/12/31/feliz-ano-2015/"/>
+    <updated>2014-12-31T19:31:45-06:00</updated>
+    <id>http://daniel-g.com/blog/2014/12/31/feliz-ano-2015</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
