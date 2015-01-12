@@ -1,7 +1,0 @@
----
-layout: post
-title: "Feliz Año 2015"
-date: 2014-12-31 19:31:45 -0600
-comments: true
-categories: 
----
