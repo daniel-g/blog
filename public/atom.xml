@@ -4,7 +4,7 @@
   <title><![CDATA[Daniel G. Blog!]]></title>
   <link href="http://blog.daniel-g.com/atom.xml" rel="self"/>
   <link href="http://blog.daniel-g.com/"/>
-  <updated>2015-01-21T21:03:11-06:00</updated>
+  <updated>2015-01-21T21:11:17-06:00</updated>
   <id>http://blog.daniel-g.com/</id>
   <author>
     <name><![CDATA[Daniel Gaytán]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[3 Cosas Que Veo en Un Buen Desarrollador]]></title>
-    <link href="http://blog.daniel-g.com/blog/2015/01/12/3-cosas-que-veo-en-un-buen-desarrollador/"/>
+    <link href="http://blog.daniel-g.com/2015/01/12/3-cosas-que-veo-en-un-buen-desarrollador/"/>
     <updated>2015-01-12T00:31:37-06:00</updated>
-    <id>http://blog.daniel-g.com/blog/2015/01/12/3-cosas-que-veo-en-un-buen-desarrollador</id>
+    <id>http://blog.daniel-g.com/2015/01/12/3-cosas-que-veo-en-un-buen-desarrollador</id>
     <content type="html"><![CDATA[<p>Un desarrollador de software suele saber a lo largo de su carrera profesional
 distintos lenguajes, editores, versionadores, entre otras herramientas. Sin
 embargo, suelo encontrarme con &ldquo;expertos en ruby&rdquo; con 10 años de experiencia
